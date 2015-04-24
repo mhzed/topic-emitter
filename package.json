@@ -1,0 +1,23 @@
+{
+  "name": "topic-emitter",
+  "version": "1.0.0",
+  "description": "nodejs style event emitter applied to rabbitmq style 'topic'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhzed/topic-emitter.git"
+  },
+  "keywords": [
+    "event",
+    "topic"
+  ],
+  "author": "mhzedd@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhzed/topic-emitter/issues"
+  },
+  "homepage": "https://github.com/mhzed/topic-emitter"
+}
