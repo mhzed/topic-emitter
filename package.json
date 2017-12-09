@@ -2,7 +2,7 @@
   "name": "topic-emitter",
   "version": "1.0.0",
   "description": "nodejs style event emitter applied to rabbitmq style 'topic'",
-  "main": "index.js",
+  "main": "topic-emitter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
